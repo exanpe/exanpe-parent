@@ -11,7 +11,7 @@
 	<packaging>pom</packaging>
 	<name>Exanpe Organization</name>
 	<version>1.0-SNAPSHOT</version>
-	<url>http://github.com/exanpe</url>
+	<url>http://github.com/exanpe/exanpe-parent</url>
 	<description>Tools around J2EE technologies</description>
 
 	<licenses>
@@ -21,6 +21,12 @@
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
+
+	<scm>
+		<connection>scm:git:git@gitproxy:exanpe/exanpe-parent.git</connection>
+		<developerConnection>scm:git:git@gitproxy:exanpe/exanpe-parent.git</developerConnection>
+		<url>git@gitproxy:exanpe/exanpe-parent.git</url>
+	</scm>
 
 	<issueManagement>
 		<system>Github</system>
